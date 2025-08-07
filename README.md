@@ -7,7 +7,7 @@ The primary goal of this project was to demonstrate proficiency in front-end dev
 ## 🚀 Live Demo
 
 You can view a live demo of the project here:
-[**[https://bundler-builder-4qbg.vercel.app/]**](https://bundler-builder-4qbg.vercel.app/)
+[**[https://bundle-builder-alpha.vercel.app/]**](https://bundler-builder-4qbg.vercel.app/)
 
 ## ✨ Features
 
